@@ -18,6 +18,8 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^8.0.1"
   }
 }
