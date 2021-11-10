@@ -1,4 +1,5 @@
 import axios from "axios";
+import "./style.css";
 
 axios
   .get("https://jsonplaceholder.typicode.com/todos/1")
